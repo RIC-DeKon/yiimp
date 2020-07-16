@@ -1,6 +1,8 @@
 [![Build Status](https://travis-ci.org/tpruvot/yiimp.svg?branch=next)](https://travis-ci.org/tpruvot/yiimp)
 
-#yiimp - yaamp fork
+#yiimp fork for Riecoin
+
+In development - Dont use it now
 
 WARNINGS
 - Use at your own risks.
